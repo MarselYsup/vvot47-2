@@ -21,9 +21,11 @@
     region = ru-central1 
     endpoint_url = https://storage.yandexcloud.net
     ```    
+3. Полное ТЗ можно посмотреть тут - `https://docs.itiscl.ru/vvot/2023-2024/tasks/task02/task02.html` 
 ### Структура проекта
 
 1. `/resources` - Директория с файлами для создания веб-сайта
 2. `/task` - Директория с файлами для взаимодействия с облаком 
 3. `cloudphoto.py` - основной файл для запуска скрипта
 4. `requirements.txt` - основные зависимости необходимые для работы
+
