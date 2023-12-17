@@ -4,7 +4,7 @@
 
 ### Для запуска необходимо 
 
-1. ```https://github.com/MarselYsup/vvot47-2.git```
+1. ```git clone https://github.com/MarselYsup/vvot47-2.git```
 2. ```cd vvot47-2```
 2. ```pip install -r requirements.txt```
 3. ```python cloudphoto.py [-h] {upload,download,list,delete,mksite,init}```
