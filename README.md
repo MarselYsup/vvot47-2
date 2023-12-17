@@ -9,6 +9,7 @@
 2. ```pip install -r requirements.txt```
 3. ```python cloudphoto.py [-h] {upload,download,list,delete,mksite,init}```
 
+! Для вызова помощи используйте команду ```python cloudphoto.py --help``` 
 
 ### Важно!
 
@@ -20,8 +21,9 @@
     aws_secret_access_key = INPUT_AWS_SECRET_ACCESS_KEY 
     region = ru-central1 
     endpoint_url = https://storage.yandexcloud.net
-    ```    
-3. Полное ТЗ можно посмотреть тут - `https://docs.itiscl.ru/vvot/2023-2024/tasks/task02/task02.html` 
+    ```        
+3. Полное ТЗ можно посмотреть тут - `https://docs.itiscl.ru/vvot/2023-2024/tasks/task02/task02.html`
+
 ### Структура проекта
 
 1. `/resources` - Директория с файлами для создания веб-сайта
